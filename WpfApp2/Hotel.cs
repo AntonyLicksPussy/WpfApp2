@@ -11,6 +11,7 @@ namespace WpfApp2
         public int Id { get; set; }
 
 
+
         public string Name { get; set; }
         public int CountOfStars { get; set; }
         public string CountryName { get; set; }
